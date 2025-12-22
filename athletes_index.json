@@ -1,0 +1,1483 @@
+{
+  "competition_name": "2026年名古屋亞運 第三階段培訓隊選拔賽第一場",
+  "powered_by": "Powered by TechNSport",
+  "athletes": [
+    {
+      "id": "3ddfb1f128b49644",
+      "name": "許芯慈",
+      "unit": "新北三民高中",
+      "group": "反曲弓女生",
+      "final_rank": 1
+    },
+    {
+      "id": "5a31b1682d04976c",
+      "name": "邱意晴",
+      "unit": "國立清華大學",
+      "group": "反曲弓女生",
+      "final_rank": 2
+    },
+    {
+      "id": "05e934c84b4ef37b",
+      "name": "李彩綺",
+      "unit": "國立清華大學",
+      "group": "反曲弓女生",
+      "final_rank": 3
+    },
+    {
+      "id": "e7e423456a19450f",
+      "name": "李采璇",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 4
+    },
+    {
+      "id": "b3ef34707415a51d",
+      "name": "風佑築",
+      "unit": "國立臺北大學",
+      "group": "反曲弓女生",
+      "final_rank": 5
+    },
+    {
+      "id": "ffa5b0f7077db9fd",
+      "name": "林姝妍",
+      "unit": "新北三民高中",
+      "group": "反曲弓女生",
+      "final_rank": 6
+    },
+    {
+      "id": "8f9f401b14a4f87a",
+      "name": "施孟君",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 7
+    },
+    {
+      "id": "a7ebbc84dfc68243",
+      "name": "隋昀瑾",
+      "unit": "新北明德高中",
+      "group": "反曲弓女生",
+      "final_rank": 8
+    },
+    {
+      "id": "f0afe1f13df90c28",
+      "name": "蘇芯羽",
+      "unit": "國立清華大學",
+      "group": "反曲弓女生",
+      "final_rank": 9
+    },
+    {
+      "id": "f968095a46a9cfce",
+      "name": "郭紫穎",
+      "unit": "國立清華大學",
+      "group": "反曲弓女生",
+      "final_rank": 10
+    },
+    {
+      "id": "bbd0e23cba37320c",
+      "name": "雷千瑩",
+      "unit": "國立臺北大學",
+      "group": "反曲弓女生",
+      "final_rank": 11
+    },
+    {
+      "id": "02b528fec3905f78",
+      "name": "張庭瑜",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 12
+    },
+    {
+      "id": "414e5bd5e830d38b",
+      "name": "高卉唐",
+      "unit": "花縣玉里國中",
+      "group": "反曲弓女生",
+      "final_rank": 13
+    },
+    {
+      "id": "3f950855d776ace5",
+      "name": "林嘉妤",
+      "unit": "國立清華大學",
+      "group": "反曲弓女生",
+      "final_rank": 14
+    },
+    {
+      "id": "4eacc4eee3612c56",
+      "name": "張琁",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 15
+    },
+    {
+      "id": "0144d894df7f3686",
+      "name": "林恩綺",
+      "unit": "桃市永豐高中",
+      "group": "反曲弓女生",
+      "final_rank": 16
+    },
+    {
+      "id": "d15f7caeccf0561d",
+      "name": "譚雅婷",
+      "unit": "國立暨南大學",
+      "group": "反曲弓女生",
+      "final_rank": 17
+    },
+    {
+      "id": "2a5f77c6fc32cad2",
+      "name": "王乃欣",
+      "unit": "國立東大附體",
+      "group": "反曲弓女生",
+      "final_rank": 18
+    },
+    {
+      "id": "0a128ffc98826129",
+      "name": "謝佩涓",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 19
+    },
+    {
+      "id": "19ad804937921b3c",
+      "name": "彭家楙",
+      "unit": "中原大學",
+      "group": "反曲弓女生",
+      "final_rank": 20
+    },
+    {
+      "id": "a0149e48f2c8c148",
+      "name": "林佳恩",
+      "unit": "阿和師薑母鴨",
+      "group": "反曲弓女生",
+      "final_rank": 21
+    },
+    {
+      "id": "0ae7656d2a094346",
+      "name": "莊書菱",
+      "unit": "國立新竹高商",
+      "group": "反曲弓女生",
+      "final_rank": 22
+    },
+    {
+      "id": "54ea3c887e1fd87f",
+      "name": "王芯柔",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 23
+    },
+    {
+      "id": "2b9083efc3ab55f7",
+      "name": "陳姝妤",
+      "unit": "北市萬芳高中",
+      "group": "反曲弓女生",
+      "final_rank": 24
+    },
+    {
+      "id": "446da677541b8b66",
+      "name": "田文慈",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 25
+    },
+    {
+      "id": "ed4e6542ed015e84",
+      "name": "張純嘉",
+      "unit": "桃市育達高中",
+      "group": "反曲弓女生",
+      "final_rank": 26
+    },
+    {
+      "id": "7d11f63c54f4da93",
+      "name": "嚴子喬",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 27
+    },
+    {
+      "id": "90e410eedc004216",
+      "name": "陳沁揚",
+      "unit": "新北三和國中",
+      "group": "反曲弓女生",
+      "final_rank": 28
+    },
+    {
+      "id": "689008a1f3d269e9",
+      "name": "劉詩翎",
+      "unit": "北市萬芳高中",
+      "group": "反曲弓女生",
+      "final_rank": 29
+    },
+    {
+      "id": "203cde816588cfb1",
+      "name": "陳以芹",
+      "unit": "國立臺北大學",
+      "group": "反曲弓女生",
+      "final_rank": 30
+    },
+    {
+      "id": "3c6a80489c61fd64",
+      "name": "王媛昕",
+      "unit": "桃市永豐高中",
+      "group": "反曲弓女生",
+      "final_rank": 31
+    },
+    {
+      "id": "b184d29a5454c1bd",
+      "name": "蘇筱斐",
+      "unit": "國立清華大學",
+      "group": "反曲弓女生",
+      "final_rank": 32
+    },
+    {
+      "id": "9071fa2831e0c2a2",
+      "name": "翁詩婕",
+      "unit": "新北三民高中",
+      "group": "反曲弓女生",
+      "final_rank": 33
+    },
+    {
+      "id": "1906a1c276845de3",
+      "name": "莊翔嵐",
+      "unit": "北市萬芳高中",
+      "group": "反曲弓女生",
+      "final_rank": 34
+    },
+    {
+      "id": "782a6fa925f2de5a",
+      "name": "顏庭瑜",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 35
+    },
+    {
+      "id": "f1673e3f01dcf656",
+      "name": "李芳宜",
+      "unit": "個人",
+      "group": "反曲弓女生",
+      "final_rank": 36
+    },
+    {
+      "id": "3d533240d2d8748c",
+      "name": "詹紫媚",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 37
+    },
+    {
+      "id": "99a8dc2cae10bc05",
+      "name": "劉佳耘",
+      "unit": "竹縣湖口高中",
+      "group": "反曲弓女生",
+      "final_rank": 38
+    },
+    {
+      "id": "f1d725605ea2e111",
+      "name": "廖婕儒",
+      "unit": "花縣自強國中",
+      "group": "反曲弓女生",
+      "final_rank": 39
+    },
+    {
+      "id": "2c9a8a6245ebc3e9",
+      "name": "葉芃妤",
+      "unit": "新北三民高中",
+      "group": "反曲弓女生",
+      "final_rank": 40
+    },
+    {
+      "id": "ab5dba9bc2dea0fd",
+      "name": "蔡唯樂",
+      "unit": "北市麗山高中",
+      "group": "反曲弓女生",
+      "final_rank": 41
+    },
+    {
+      "id": "4ada149b589abe6c",
+      "name": "袁叔琪",
+      "unit": "竹縣博愛國小",
+      "group": "反曲弓女生",
+      "final_rank": 42
+    },
+    {
+      "id": "c061aa2e44181445",
+      "name": "劉沛妤",
+      "unit": "國立中正大學",
+      "group": "反曲弓女生",
+      "final_rank": 43
+    },
+    {
+      "id": "f72e7b646d759ab0",
+      "name": "郭雪真",
+      "unit": "新北明德高中",
+      "group": "反曲弓女生",
+      "final_rank": 44
+    },
+    {
+      "id": "b7e90f4231391e19",
+      "name": "劉虹均",
+      "unit": "國立體育大學",
+      "group": "反曲弓女生",
+      "final_rank": 45
+    },
+    {
+      "id": "8ee60bf565173f42",
+      "name": "盧佩雲",
+      "unit": "花縣自強國中",
+      "group": "反曲弓女生",
+      "final_rank": 46
+    },
+    {
+      "id": "bf89bada335918d0",
+      "name": "王宥勻",
+      "unit": "新北明德高中",
+      "group": "反曲弓女生",
+      "final_rank": 47
+    },
+    {
+      "id": "0abab9f144d5b7d8",
+      "name": "何寀菊",
+      "unit": "北市麗山高中",
+      "group": "反曲弓女生",
+      "final_rank": 48
+    },
+    {
+      "id": "6e857c93ce651b34",
+      "name": "戴芷萱",
+      "unit": "竹縣湖口高中",
+      "group": "反曲弓女生",
+      "final_rank": 49
+    },
+    {
+      "id": "228ae2f3a25a64a7",
+      "name": "劉欣潔",
+      "unit": "國立陽明交大附中",
+      "group": "反曲弓女生",
+      "final_rank": 50
+    },
+    {
+      "id": "d8f9f520614b3719",
+      "name": "張芷綾",
+      "unit": "國立清華大學",
+      "group": "反曲弓女生",
+      "final_rank": 51
+    },
+    {
+      "id": "81893f9f43b716f2",
+      "name": "朱兒",
+      "unit": "花縣自強國中",
+      "group": "反曲弓女生",
+      "final_rank": 52
+    },
+    {
+      "id": "e3cad4b950c5f993",
+      "name": "蔡亦涵",
+      "unit": "輔仁大學",
+      "group": "反曲弓女生",
+      "final_rank": 53
+    },
+    {
+      "id": "7f9a6feae0b9e4eb",
+      "name": "陳佑欣",
+      "unit": "雲縣林內國中",
+      "group": "反曲弓女生",
+      "final_rank": 54
+    },
+    {
+      "id": "bf104dadecb7a595",
+      "name": "湯智鈞",
+      "unit": "國立臺北大學",
+      "group": "反曲弓男生",
+      "final_rank": 1
+    },
+    {
+      "id": "4670bb38cbe9c057",
+      "name": "魏均珩",
+      "unit": "國立臺灣大學",
+      "group": "反曲弓男生",
+      "final_rank": 2
+    },
+    {
+      "id": "646a8189814d560e",
+      "name": "鄭祥輝",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 3
+    },
+    {
+      "id": "f263cf2e2e0595ed",
+      "name": "林子翔",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 4
+    },
+    {
+      "id": "8754525a0fa65793",
+      "name": "蘇于洋",
+      "unit": "輔仁大學",
+      "group": "反曲弓男生",
+      "final_rank": 5
+    },
+    {
+      "id": "49ae58dde6c9fe22",
+      "name": "劉泰言",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 6
+    },
+    {
+      "id": "8fe16dd60f3f79ab",
+      "name": "戴宇軒",
+      "unit": "國立臺北大學",
+      "group": "反曲弓男生",
+      "final_rank": 7
+    },
+    {
+      "id": "3451ff6d9c4e312d",
+      "name": "林育淵",
+      "unit": "國立清華大學",
+      "group": "反曲弓男生",
+      "final_rank": 8
+    },
+    {
+      "id": "1f9e274373cfe74b",
+      "name": "郭昱承",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 9
+    },
+    {
+      "id": "608061f1905f5990",
+      "name": "陳佑銘",
+      "unit": "竹縣東泰高中",
+      "group": "反曲弓男生",
+      "final_rank": 10
+    },
+    {
+      "id": "932569c03834c290",
+      "name": "吳昱明",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 11
+    },
+    {
+      "id": "00d196fde1665790",
+      "name": "楊凱涵",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 12
+    },
+    {
+      "id": "a1d0928525058310",
+      "name": "柯倫祐",
+      "unit": "國立臺北大學",
+      "group": "反曲弓男生",
+      "final_rank": 13
+    },
+    {
+      "id": "48c7cd2195f46c4c",
+      "name": "麥育誠",
+      "unit": "新北明德高中",
+      "group": "反曲弓男生",
+      "final_rank": 14
+    },
+    {
+      "id": "2cffec8dad5bb7ff",
+      "name": "鄧宇成",
+      "unit": "阿和師薑母鴨",
+      "group": "反曲弓男生",
+      "final_rank": 15
+    },
+    {
+      "id": "073fafe94d0ee02c",
+      "name": "羅正偉",
+      "unit": "投縣大成國中",
+      "group": "反曲弓男生",
+      "final_rank": 16
+    },
+    {
+      "id": "01bbf8f34ca379d9",
+      "name": "陳品安",
+      "unit": "竹市香山高中",
+      "group": "反曲弓男生",
+      "final_rank": 17
+    },
+    {
+      "id": "6f3c4e78318d65e0",
+      "name": "張建強",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 18
+    },
+    {
+      "id": "c773c8581e577d85",
+      "name": "詹豪杰",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 19
+    },
+    {
+      "id": "18eb16bee8a30685",
+      "name": "高逢澤",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 20
+    },
+    {
+      "id": "6fc5bc633a64d3ac",
+      "name": "劉泰宇",
+      "unit": "北市麗山高中",
+      "group": "反曲弓男生",
+      "final_rank": 21
+    },
+    {
+      "id": "9551733ae4a004ca",
+      "name": "張譯中",
+      "unit": "輔仁大學",
+      "group": "反曲弓男生",
+      "final_rank": 21
+    },
+    {
+      "id": "e795986d0e2047e2",
+      "name": "吳侑恩",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 23
+    },
+    {
+      "id": "38c3d9aa6c953d67",
+      "name": "陳盈華",
+      "unit": "臺北市立大學",
+      "group": "反曲弓男生",
+      "final_rank": 24
+    },
+    {
+      "id": "09999cc8d2d88565",
+      "name": "林育暘",
+      "unit": "竹市香山高中",
+      "group": "反曲弓男生",
+      "final_rank": 25
+    },
+    {
+      "id": "792060b411c06c2e",
+      "name": "潘桓烜",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 26
+    },
+    {
+      "id": "bda40b7f8a674989",
+      "name": "楊富程",
+      "unit": "中市中港高中",
+      "group": "反曲弓男生",
+      "final_rank": 27
+    },
+    {
+      "id": "ca6d5fb9ca9e40a0",
+      "name": "蔡明修",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 28
+    },
+    {
+      "id": "f355eb12488efb25",
+      "name": "楊宗翰",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 29
+    },
+    {
+      "id": "8fdfd3a686b92690",
+      "name": "李柏寬",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 30
+    },
+    {
+      "id": "f363389af88ac337",
+      "name": "李潘嘉偉",
+      "unit": "國立東大附體",
+      "group": "反曲弓男生",
+      "final_rank": 31
+    },
+    {
+      "id": "b54bbabcbfbda2ea",
+      "name": "蔡旻祐",
+      "unit": "新北三民高中",
+      "group": "反曲弓男生",
+      "final_rank": 32
+    },
+    {
+      "id": "2d537a9c8956e727",
+      "name": "王彥富",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 33
+    },
+    {
+      "id": "14979cd3179854a5",
+      "name": "蔡薰毅",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 34
+    },
+    {
+      "id": "77aab3c1cc193cbc",
+      "name": "江侑軒",
+      "unit": "北市萬芳高中",
+      "group": "反曲弓男生",
+      "final_rank": 35
+    },
+    {
+      "id": "20007b4a893d2697",
+      "name": "黃立承",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 36
+    },
+    {
+      "id": "6e19c4ddb1c6335e",
+      "name": "陳慶銓",
+      "unit": "臺北市立大學",
+      "group": "反曲弓男生",
+      "final_rank": 37
+    },
+    {
+      "id": "7d6fb67ed1b9723b",
+      "name": "潘威誌",
+      "unit": "桃市永豐高中",
+      "group": "反曲弓男生",
+      "final_rank": 38
+    },
+    {
+      "id": "2ece1577250a3b0b",
+      "name": "高健鈞",
+      "unit": "新北明德高中",
+      "group": "反曲弓男生",
+      "final_rank": 39
+    },
+    {
+      "id": "39fe101a46120094",
+      "name": "陳良峻",
+      "unit": "新北明德高中",
+      "group": "反曲弓男生",
+      "final_rank": 40
+    },
+    {
+      "id": "b5afb594ed4dfa7a",
+      "name": "呂巫鍇",
+      "unit": "國立新竹高商",
+      "group": "反曲弓男生",
+      "final_rank": 41
+    },
+    {
+      "id": "719dda54f6228469",
+      "name": "羅政宇",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 41
+    },
+    {
+      "id": "a222ae66150c6a08",
+      "name": "王睿宏",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 43
+    },
+    {
+      "id": "12e65e41cd55a295",
+      "name": "黃鑫",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 43
+    },
+    {
+      "id": "81665ba699131ced",
+      "name": "劉哲翰",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 45
+    },
+    {
+      "id": "8de91051ae7ac66c",
+      "name": "郭維喆",
+      "unit": "國立臺南海事",
+      "group": "反曲弓男生",
+      "final_rank": 45
+    },
+    {
+      "id": "96236ce590ddbc6e",
+      "name": "紀柏均",
+      "unit": "國立體育大學",
+      "group": "反曲弓男生",
+      "final_rank": 47
+    },
+    {
+      "id": "24aa8e5a6f19755f",
+      "name": "劉康宏",
+      "unit": "國立陽明交大附中",
+      "group": "反曲弓男生",
+      "final_rank": 48
+    },
+    {
+      "id": "91ccebb22f402566",
+      "name": "張宇帆",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 49
+    },
+    {
+      "id": "b390a8b00291706e",
+      "name": "陳鼎豐",
+      "unit": "新北明德高中",
+      "group": "反曲弓男生",
+      "final_rank": 50
+    },
+    {
+      "id": "67888864b6b91e64",
+      "name": "王人毅",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 51
+    },
+    {
+      "id": "c85a3347c835a719",
+      "name": "廖力玄",
+      "unit": "花縣自強國中",
+      "group": "反曲弓男生",
+      "final_rank": 52
+    },
+    {
+      "id": "a6caabb5908e6caa",
+      "name": "林佑誠",
+      "unit": "竹市香山高中",
+      "group": "反曲弓男生",
+      "final_rank": 53
+    },
+    {
+      "id": "18062e2b42db0efb",
+      "name": "彭彥愷",
+      "unit": "國立玉里高中",
+      "group": "反曲弓男生",
+      "final_rank": 54
+    },
+    {
+      "id": "a42374de4f74a450",
+      "name": "游凱淳",
+      "unit": "花縣自強國中",
+      "group": "反曲弓男生",
+      "final_rank": 55
+    },
+    {
+      "id": "5e5bfb656efab89d",
+      "name": "郭建成",
+      "unit": "新北明德高中",
+      "group": "反曲弓男生",
+      "final_rank": 56
+    },
+    {
+      "id": "e435ad384a14bc1a",
+      "name": "吳吏崴",
+      "unit": "國立臺灣體大",
+      "group": "反曲弓男生",
+      "final_rank": 57
+    },
+    {
+      "id": "68e614b1e5ea3ab7",
+      "name": "朱彥瑾",
+      "unit": "國立陽明交大附中",
+      "group": "反曲弓男生",
+      "final_rank": 58
+    },
+    {
+      "id": "4b6c8bbcee4b9d95",
+      "name": "謝明君",
+      "unit": "花縣自強國中",
+      "group": "反曲弓男生",
+      "final_rank": 59
+    },
+    {
+      "id": "f3d10a5615b2d4e7",
+      "name": "李亞哲",
+      "unit": "桃市永豐高中",
+      "group": "反曲弓男生",
+      "final_rank": 60
+    },
+    {
+      "id": "6ef2aad7a8fc1980",
+      "name": "黃宥熏",
+      "unit": "竹縣湖口高中",
+      "group": "反曲弓男生",
+      "final_rank": 61
+    },
+    {
+      "id": "00a71bf6bb13b1d4",
+      "name": "郭政恩",
+      "unit": "國立臺灣體大",
+      "group": "反曲弓男生",
+      "final_rank": 62
+    },
+    {
+      "id": "9135be02fe4fd65f",
+      "name": "劉翰承",
+      "unit": "國立中正大學",
+      "group": "反曲弓男生",
+      "final_rank": 63
+    },
+    {
+      "id": "914a40ca14f097e1",
+      "name": "江竣崴",
+      "unit": "北市麗山高中",
+      "group": "反曲弓男生",
+      "final_rank": 64
+    },
+    {
+      "id": "115debc7f88b6ee6",
+      "name": "張宇謙",
+      "unit": "新北明德高中",
+      "group": "反曲弓男生",
+      "final_rank": 65
+    },
+    {
+      "id": "2d5ab1f2f61e1e55",
+      "name": "蕭孟維",
+      "unit": null,
+      "group": "反曲弓男生",
+      "final_rank": null
+    },
+    {
+      "id": "793a5ba3a9d8eb72",
+      "name": "黃逸柔",
+      "unit": "能量豬聯盟",
+      "group": "複合弓女生",
+      "final_rank": 1
+    },
+    {
+      "id": "1f0b0817a1839fe9",
+      "name": "陳怡瑄",
+      "unit": "能量豬聯盟",
+      "group": "複合弓女生",
+      "final_rank": 2
+    },
+    {
+      "id": "0ebd5a2c44976b8b",
+      "name": "陳芳翊",
+      "unit": "國立臺南海事",
+      "group": "複合弓女生",
+      "final_rank": 3
+    },
+    {
+      "id": "e4a9f321ce55f404",
+      "name": "王律勻",
+      "unit": "臺北市立大學",
+      "group": "複合弓女生",
+      "final_rank": 5
+    },
+    {
+      "id": "88a97130c3798f74",
+      "name": "邱鈺兒",
+      "unit": "國立體育大學",
+      "group": "複合弓女生",
+      "final_rank": 6
+    },
+    {
+      "id": "c18fe8ec48e196aa",
+      "name": "蕭宇倢",
+      "unit": "國立中正大學",
+      "group": "複合弓女生",
+      "final_rank": 7
+    },
+    {
+      "id": "d66cee71259c4ce3",
+      "name": "林渝梵",
+      "unit": "臺北市立大學",
+      "group": "複合弓女生",
+      "final_rank": 8
+    },
+    {
+      "id": "fa54fa6e28e3405e",
+      "name": "馬瑀彣",
+      "unit": "中國文化大學",
+      "group": "複合弓女生",
+      "final_rank": 9
+    },
+    {
+      "id": "f7d7a10c22b1b8e8",
+      "name": "陳冠涵",
+      "unit": "新北泰山高中",
+      "group": "複合弓女生",
+      "final_rank": 10
+    },
+    {
+      "id": "a2f6fefff0f9e67c",
+      "name": "官艾",
+      "unit": "國立中正大學",
+      "group": "複合弓女生",
+      "final_rank": 11
+    },
+    {
+      "id": "2039f462513eb247",
+      "name": "蕭亘庭",
+      "unit": "臺北市立大學",
+      "group": "複合弓女生",
+      "final_rank": 12
+    },
+    {
+      "id": "7c40f89545dfacab",
+      "name": "林家伶",
+      "unit": "桃市永豐高中",
+      "group": "複合弓女生",
+      "final_rank": 13
+    },
+    {
+      "id": "e2f36033d5dae210",
+      "name": "林彩瑜",
+      "unit": "國立中正大學",
+      "group": "複合弓女生",
+      "final_rank": 14
+    },
+    {
+      "id": "c13ec23d1881d545",
+      "name": "劉芯妘",
+      "unit": "輔仁大學",
+      "group": "複合弓女生",
+      "final_rank": 15
+    },
+    {
+      "id": "9626abe28d15a535",
+      "name": "楊佳樺",
+      "unit": "中國文化大學",
+      "group": "複合弓女生",
+      "final_rank": 16
+    },
+    {
+      "id": "944edbbcb6dee33d",
+      "name": "楊天玥",
+      "unit": "國立體育大學",
+      "group": "複合弓女生",
+      "final_rank": 17
+    },
+    {
+      "id": "76ad8eab30e1d21b",
+      "name": "郭宴宇",
+      "unit": "國立中正大學",
+      "group": "複合弓女生",
+      "final_rank": 18
+    },
+    {
+      "id": "da999cad11f8b0e4",
+      "name": "陳采盈",
+      "unit": "桃市永豐高中",
+      "group": "複合弓女生",
+      "final_rank": 19
+    },
+    {
+      "id": "46801b7b68b1d033",
+      "name": "李品軒",
+      "unit": "國立體育大學",
+      "group": "複合弓女生",
+      "final_rank": 20
+    },
+    {
+      "id": "0819e18c0c31314d",
+      "name": "唐珈臻",
+      "unit": "國立臺灣體大",
+      "group": "複合弓女生",
+      "final_rank": 21
+    },
+    {
+      "id": "3feda194ed0b7c38",
+      "name": "沈毓庭",
+      "unit": "新北三民高中",
+      "group": "複合弓女生",
+      "final_rank": 21
+    },
+    {
+      "id": "5651fe529626739c",
+      "name": "陳品蓁",
+      "unit": "桃市永豐高中",
+      "group": "複合弓女生",
+      "final_rank": 21
+    },
+    {
+      "id": "4718d7a68730e135",
+      "name": "陳宥汝",
+      "unit": "臺北市立大學",
+      "group": "複合弓女生",
+      "final_rank": 24
+    },
+    {
+      "id": "6687bdf46bfe0a4c",
+      "name": "張允僑",
+      "unit": "新北三民高中",
+      "group": "複合弓女生",
+      "final_rank": 25
+    },
+    {
+      "id": "2b13e8cd34d83455",
+      "name": "朱睿瑤",
+      "unit": "國立體育大學",
+      "group": "複合弓女生",
+      "final_rank": 26
+    },
+    {
+      "id": "7869091489c6b340",
+      "name": "柯韋安",
+      "unit": "新北泰山高中",
+      "group": "複合弓女生",
+      "final_rank": 26
+    },
+    {
+      "id": "c977cc605a9483ad",
+      "name": "曾小芸",
+      "unit": "北市麗山高中",
+      "group": "複合弓女生",
+      "final_rank": 28
+    },
+    {
+      "id": "fae844abeb0027ba",
+      "name": "葉品妍",
+      "unit": "花縣玉里國中",
+      "group": "複合弓女生",
+      "final_rank": 29
+    },
+    {
+      "id": "a8bd6f05f4de0186",
+      "name": "林姿璇",
+      "unit": "南市金城國中",
+      "group": "複合弓女生",
+      "final_rank": 30
+    },
+    {
+      "id": "c0e59201f36f9633",
+      "name": "王晶金",
+      "unit": "竹縣湖口國中",
+      "group": "複合弓女生",
+      "final_rank": 31
+    },
+    {
+      "id": "b414feff27c5f96c",
+      "name": "陳思妤",
+      "unit": "國立臺北大學",
+      "group": "複合弓女生",
+      "final_rank": 32
+    },
+    {
+      "id": "d895342a886461b1",
+      "name": "莊于萱",
+      "unit": "臺北市立大學",
+      "group": "複合弓女生",
+      "final_rank": 33
+    },
+    {
+      "id": "ad0a5837233eded2",
+      "name": "黃珮瑄",
+      "unit": "國立東大附體",
+      "group": "複合弓女生",
+      "final_rank": 34
+    },
+    {
+      "id": "92b3e269622b87f6",
+      "name": "李佩真",
+      "unit": "國立臺灣體大",
+      "group": "複合弓女生",
+      "final_rank": 35
+    },
+    {
+      "id": "028d0c9fed14ddf5",
+      "name": "陳界綸",
+      "unit": "臺中市射箭委員會",
+      "group": "複合弓男生",
+      "final_rank": 1
+    },
+    {
+      "id": "db6555dd60c521c0",
+      "name": "張正韋",
+      "unit": "臺北市立大學",
+      "group": "複合弓男生",
+      "final_rank": 2
+    },
+    {
+      "id": "dff3923f4a4752d9",
+      "name": "顏子翔",
+      "unit": "桃市永豐高中",
+      "group": "複合弓男生",
+      "final_rank": 3
+    },
+    {
+      "id": "823d0c5b2b5349f2",
+      "name": "高誠恩",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 4
+    },
+    {
+      "id": "077981b596fd6908",
+      "name": "潘宇平",
+      "unit": "中國文化大學",
+      "group": "複合弓男生",
+      "final_rank": 5
+    },
+    {
+      "id": "e77d181e26c850a3",
+      "name": "林哲生",
+      "unit": "國立埔里高工",
+      "group": "複合弓男生",
+      "final_rank": 6
+    },
+    {
+      "id": "5ba7c036a83ad346",
+      "name": "彭郁凱",
+      "unit": "國立中山大學",
+      "group": "複合弓男生",
+      "final_rank": 7
+    },
+    {
+      "id": "7e47d239afeca415",
+      "name": "吳子瑋",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 8
+    },
+    {
+      "id": "276871c3bc220231",
+      "name": "林翰霆",
+      "unit": "國立臺灣體大",
+      "group": "複合弓男生",
+      "final_rank": 9
+    },
+    {
+      "id": "4167def0b4a25572",
+      "name": "林昱全",
+      "unit": "中國文化大學",
+      "group": "複合弓男生",
+      "final_rank": 10
+    },
+    {
+      "id": "53894ae6f4e02398",
+      "name": "許晉維",
+      "unit": "竹縣湖口國中",
+      "group": "複合弓男生",
+      "final_rank": 11
+    },
+    {
+      "id": "d646ceff497d2457",
+      "name": "楊承叡",
+      "unit": "國立中正大學",
+      "group": "複合弓男生",
+      "final_rank": 12
+    },
+    {
+      "id": "0e831b2a0d73a666",
+      "name": "林昱圻",
+      "unit": "國立臺北大學",
+      "group": "複合弓男生",
+      "final_rank": 13
+    },
+    {
+      "id": "4b9bfc461b90054e",
+      "name": "黃智諱",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 14
+    },
+    {
+      "id": "5cc82b6f0156e236",
+      "name": "李恩祐",
+      "unit": "臺北市立大學",
+      "group": "複合弓男生",
+      "final_rank": 15
+    },
+    {
+      "id": "a8102b4091c3854b",
+      "name": "郭俊緯",
+      "unit": "國立臺南海事",
+      "group": "複合弓男生",
+      "final_rank": 16
+    },
+    {
+      "id": "217f82b3d7445c84",
+      "name": "羅逸帆",
+      "unit": "國立中正大學",
+      "group": "複合弓男生",
+      "final_rank": 17
+    },
+    {
+      "id": "7bd989fc2e608997",
+      "name": "蔡一禾",
+      "unit": "竹縣湖口高中",
+      "group": "複合弓男生",
+      "final_rank": 18
+    },
+    {
+      "id": "28f3ce7610675547",
+      "name": "黃少谷",
+      "unit": "國立東大附體",
+      "group": "複合弓男生",
+      "final_rank": 19
+    },
+    {
+      "id": "05b655704465c768",
+      "name": "黃錦樂",
+      "unit": "臺北市立大學",
+      "group": "複合弓男生",
+      "final_rank": 20
+    },
+    {
+      "id": "00fc669a4fac7601",
+      "name": "張簡凱安",
+      "unit": "國立臺灣體大",
+      "group": "複合弓男生",
+      "final_rank": 21
+    },
+    {
+      "id": "2516a27e99d9e2d1",
+      "name": "方謙和",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 22
+    },
+    {
+      "id": "103beb286f9b43a3",
+      "name": "李畇樺",
+      "unit": "新北明德高中",
+      "group": "複合弓男生",
+      "final_rank": 23
+    },
+    {
+      "id": "a3f38e6a8191c17c",
+      "name": "陳冠儐",
+      "unit": "中國文化大學",
+      "group": "複合弓男生",
+      "final_rank": 24
+    },
+    {
+      "id": "e58168bc1fc3b59a",
+      "name": "謝博閔",
+      "unit": "明志科大",
+      "group": "複合弓男生",
+      "final_rank": 25
+    },
+    {
+      "id": "a588bb0797f85b6b",
+      "name": "周佳宇",
+      "unit": "中國文化大學",
+      "group": "複合弓男生",
+      "final_rank": 26
+    },
+    {
+      "id": "b2c4459bf83e9aaf",
+      "name": "陳賢瑞",
+      "unit": "國立中正大學",
+      "group": "複合弓男生",
+      "final_rank": 27
+    },
+    {
+      "id": "e2eea1f962607272",
+      "name": "蕭仕仁",
+      "unit": "竹縣湖口高中",
+      "group": "複合弓男生",
+      "final_rank": 28
+    },
+    {
+      "id": "d132b2a7a989208f",
+      "name": "黃鑫儒",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 29
+    },
+    {
+      "id": "3882e41d7effabec",
+      "name": "高捷",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 30
+    },
+    {
+      "id": "e2a11388ec329532",
+      "name": "吳政磊",
+      "unit": "臺北市立大學",
+      "group": "複合弓男生",
+      "final_rank": 31
+    },
+    {
+      "id": "c54c5ff734e48fcc",
+      "name": "呂秉家",
+      "unit": "桃市永豐高中",
+      "group": "複合弓男生",
+      "final_rank": 32
+    },
+    {
+      "id": "d8e286b2be84ff83",
+      "name": "王泓翰",
+      "unit": "國立玉里高中",
+      "group": "複合弓男生",
+      "final_rank": 33
+    },
+    {
+      "id": "c5132b6ef297c78d",
+      "name": "陳杰睿",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 34
+    },
+    {
+      "id": "c7bf1cb378358048",
+      "name": "高誠佑",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 35
+    },
+    {
+      "id": "1308ac53047cc36b",
+      "name": "彭元顥",
+      "unit": "竹縣湖口高中",
+      "group": "複合弓男生",
+      "final_rank": 36
+    },
+    {
+      "id": "da741f9e70ad0b3f",
+      "name": "盧昊安",
+      "unit": "國立臺灣體大",
+      "group": "複合弓男生",
+      "final_rank": 37
+    },
+    {
+      "id": "0b6e55f9562c7f29",
+      "name": "楊維哲",
+      "unit": "臺北市立大學",
+      "group": "複合弓男生",
+      "final_rank": 38
+    },
+    {
+      "id": "99b7f0d6329474fe",
+      "name": "陳家紳",
+      "unit": "國立臺南海事",
+      "group": "複合弓男生",
+      "final_rank": 39
+    },
+    {
+      "id": "4608d602d027f47f",
+      "name": "蔡秉叡",
+      "unit": "中市中港高中",
+      "group": "複合弓男生",
+      "final_rank": 40
+    },
+    {
+      "id": "a790fc0759e49e0f",
+      "name": "林子旭",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 41
+    },
+    {
+      "id": "7b747554408820b1",
+      "name": "劉炎杰",
+      "unit": "國立玉里高中",
+      "group": "複合弓男生",
+      "final_rank": 42
+    },
+    {
+      "id": "0c9b0315f73c1ed3",
+      "name": "林后倉",
+      "unit": "國立體育大學",
+      "group": "複合弓男生",
+      "final_rank": 43
+    },
+    {
+      "id": "ce36d2263491bce6",
+      "name": "吳嘉璿",
+      "unit": "花縣自強國中",
+      "group": "複合弓男生",
+      "final_rank": 44
+    },
+    {
+      "id": "c4b53908b7fa1a41",
+      "name": "吳柏玓",
+      "unit": "南市金城國中",
+      "group": "複合弓男生",
+      "final_rank": 45
+    },
+    {
+      "id": "7ea006645f996612",
+      "name": "楊堯荏",
+      "unit": "國立臺灣體大",
+      "group": "複合弓男生",
+      "final_rank": 46
+    },
+    {
+      "id": "9e41b00bfeb3f987",
+      "name": "施暟威",
+      "unit": "中市中港高中",
+      "group": "複合弓男生",
+      "final_rank": 47
+    },
+    {
+      "id": "35354a3ad1867aa5",
+      "name": "盧泰宇",
+      "unit": "國立臺灣體大",
+      "group": "複合弓男生",
+      "final_rank": 48
+    },
+    {
+      "id": "c440be504d499fbf",
+      "name": "王子宬",
+      "unit": "中市中港高中",
+      "group": "複合弓男生",
+      "final_rank": 49
+    },
+    {
+      "id": "4de13fecee2cf11f",
+      "name": "古翔亦",
+      "unit": "花縣自強國中",
+      "group": "複合弓男生",
+      "final_rank": 50
+    },
+    {
+      "id": "f4b5caff1a7887ae",
+      "name": "詹豐",
+      "unit": "新北明德高中",
+      "group": "複合弓男生",
+      "final_rank": 51
+    },
+    {
+      "id": "0df7ef35fe8759fd",
+      "name": "吳啟維",
+      "unit": "高市中山工商",
+      "group": "複合弓男生",
+      "final_rank": 52
+    },
+    {
+      "id": "0a768cc720c6d212",
+      "name": "楊里寬",
+      "unit": "國立臺灣體大",
+      "group": "複合弓男生",
+      "final_rank": 53
+    },
+    {
+      "id": "9403f541988f6d91",
+      "name": "鄭自強",
+      "unit": "臺北市立大學",
+      "group": "複合弓男生",
+      "final_rank": 54
+    },
+    {
+      "id": "36065ab2d72304ba",
+      "name": "陳昱輝",
+      "unit": "丰收小屋",
+      "group": "複合弓男生",
+      "final_rank": 55
+    },
+    {
+      "id": "007cad20b16bf2e7",
+      "name": "張威翔",
+      "unit": "花縣自強國中",
+      "group": "複合弓男生",
+      "final_rank": 56
+    },
+    {
+      "id": "d0996879bf60e0f6",
+      "name": "洪瑞謄",
+      "unit": "彰縣彰化藝高",
+      "group": "複合弓男生",
+      "final_rank": 57
+    }
+  ]
+}
