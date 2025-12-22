@@ -328,7 +328,7 @@ window.App = (() => {
       kpi.appendChild(kpiCell("總箭數", stats.totalArrows, "em"));
       kpi.appendChild(kpiCell("總分", stats.totalScore, "em"));
       kpi.appendChild(kpiCell("平均箭值", fmtNum(stats.avgArrow), "blue"));
-      kpi.appendChild(kpiCell("10分命中率", fmtPct(stats.tenRate), "blue"));
+      kpi.appendChild(kpiCell("10+X命中率", fmtPct(stats.tenRate), "blue"));
       kpi.appendChild(kpiCell("9分以上命中率", fmtPct(stats.ninePlusRate), "blue"));
       kpi.appendChild(kpiCell("10中X比例", fmtPct(stats.xInTen), "blue"));
 
@@ -527,3 +527,4 @@ window.App = (() => {
     __renderAthleteFromPayload: renderAthleteFromPayload,
   };
 })();
+
