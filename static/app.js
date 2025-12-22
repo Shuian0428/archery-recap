@@ -523,3 +523,4 @@ async function initAthleteStatic(){
   // 如果你不想重構，就把 initAthlete 裡 fetch 後面的內容貼到這裡。
   await window.App.__renderAthleteFromPayload(payload);
 }
+
