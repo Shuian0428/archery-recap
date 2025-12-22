@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>比賽回顧</title>
+  <link rel="stylesheet" href="./static/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap row">
+      <div>
+        <a class="link" href="./index.html">← 回到選手清單</a>
+        <div class="brand-title">2026年名古屋亞運 第三階段培訓隊選拔賽第一場</div>
+        <div id="sub" class="brand-sub">載入中…</div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <div class="card-h">總覽</div>
+      <div id="kpi" class="kpi"></div>
+    </section>
+
+    <section class="grid2">
+      <section class="card">
+        <div class="card-h">最佳表現</div>
+        <div id="best" class="text text-strong"></div>
+      </section>
+
+      <section class="card">
+        <div class="card-h">箭值分布</div>
+        <div id="distBars" class="distBars"></div>
+      </section>
+    </section>
+
+    <section class="card">
+      <div class="card-h">每日統計（Day1: 1–4局｜Day2: 5–8局｜Day3: 9–12局）</div>
+      <div class="dayGrid">
+        <div class="dayCard">
+          <div class="dayTitle">Day 1</div>
+          <div id="day1" class="dayKpi"></div>
+        </div>
+        <div class="dayCard">
+          <div class="dayTitle">Day 2</div>
+          <div id="day2" class="dayKpi"></div>
+        </div>
+        <div class="dayCard">
+          <div class="dayTitle">Day 3</div>
+          <div id="day3" class="dayKpi"></div>
+        </div>
+      </div>
+
+      <div class="chartBox chartSmall"><canvas id="dayChart"></canvas></div>
+      <div class="small-note">淡色線代表同組別場均。</div>
+    </section>
+
+    <section class="card">
+      <div class="card-h">單局（12 局）總分</div>
+      <div class="chartBox"><canvas id="roundScore"></canvas></div>
+      <div class="small-note">淡色線代表同組別場均。</div>
+    </section>
+
+    <section class="card">
+      <div class="card-h">雙局（6 場）總分</div>
+      <div class="chartBox"><canvas id="doubleScore"></canvas></div>
+      <div class="small-note">淡色線代表同組別場均。</div>
+    </section>
+
+    <section class="card">
+      <div class="card-h">每趟（72 趟）總分（6箭/趟）</div>
+      <div class="chartBox chartTall"><canvas id="endScore"></canvas></div>
+      <div class="small-note">淡色線代表同組別場均。</div>
+    </section>
+
+    <section class="grid2">
+      <section class="card">
+        <div class="card-h">每局名次（1 在上）</div>
+        <div class="chartBox"><canvas id="roundRank"></canvas></div>
+      </section>
+
+      <section class="card">
+        <div class="card-h">雙局名次（1 在上）</div>
+        <div class="chartBox"><canvas id="doubleRank"></canvas></div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">Powered by TechNSport</div>
+  </footer>
+
+  <script src="./static/app.js"></script>
+  <script>window.App.initAthleteStatic();</script>
+</body>
+</html>
