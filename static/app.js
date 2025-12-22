@@ -506,21 +506,48 @@ async function initIndexStatic(){
   });
 }
 
-async function initAthleteStatic(){
-  const params = new URLSearchParams(location.search);
-  const id = params.get("id");
-  if(!id){
-    document.body.innerHTML = "缺少 id";
-    return;
-  }
-  const res = await fetch(`./data/athletes/${encodeURIComponent(id)}.json`);
+async function initIndexStatic(){
+  const res = await fetch("./data/athletes_index.json");
   const payload = await res.json();
 
-  // 直接重用你現有 initAthlete 的渲染流程：把它抽成 helper 也行
-  // 這裡最簡單：呼叫你現有 initAthlete 的內部邏輯，
-  // 但你目前 initAthlete 會 fetch /api。為避免大改，
-  // 你可以把原本 initAthlete 的「fetch 之後」內容抽成 renderAthlete(payload)。
-  // 如果你不想重構，就把 initAthlete 裡 fetch 後面的內容貼到這裡。
-  await window.App.__renderAthleteFromPayload(payload);
+  // 兼容兩種格式：payload 是陣列 或 payload.athletes 是陣列
+  const data = Array.isArray(payload) ? payload : (payload.athletes || []);
+
+  const grid = document.getElementById("grid");
+  const q = document.getElementById("q");
+
+  function card(a){
+    const div = document.createElement("div");
+    div.className = "card";
+    div.innerHTML = `
+      <div class="card-h" style="margin-bottom:8px">${a.name ?? ""}</div>
+      <div class="text" style="margin-bottom:6px">${a.unit || ""}</div>
+      <div class="text">組別：<span style="color:rgba(245,158,11,.95)">${a.group || ""}</span></div>
+      <div class="text">總名次：<span style="color:rgba(56,189,248,.95);font-weight:800">${a.final_rank ?? "-"}</span></div>
+      <div style="margin-top:10px">
+        <a class="link" href="./athlete.html?id=${encodeURIComponent(a.id)}">查看比賽回顧 →</a>
+      </div>
+    `;
+    return div;
+  }
+
+  function render(list){
+    grid.innerHTML = "";
+    for(const a of list) grid.appendChild(card(a));
+  }
+
+  render(data);
+
+  q.addEventListener("input", ()=>{
+    const s = q.value.trim().toLowerCase();
+    if(!s){ render(data); return; }
+    render(data.filter(x =>
+      (x.name||"").toLowerCase().includes(s) ||
+      (x.unit||"").toLowerCase().includes(s) ||
+      (x.group||"").toLowerCase().includes(s)
+    ));
+  });
 }
+
+
 
